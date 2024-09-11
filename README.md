@@ -2,7 +2,7 @@
 
 # <b>Project</b>
 
-This lab is dedicated to simulating a real Cyber Attack and endpoint detection and response. Utilizing Eric <a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_campaign=post&utm_medium=web">Capuano's guide online</a>, I will be using virtual machines to simulate the threat & victim machines. The attack machine will utilize 'Sliver' as a C2 framework to attack a Windows endpoint machine, which will be running 'LimaCharlie' as an EDR solution.
+This lab is dedicated to simulating a real Cyber Attack and endpoint detection and response., I will be using virtual machines to simulate the threat & victim machines. The attack machine will utilize 'Sliver' as a C2 framework to attack a Windows endpoint machine, which will be running 'LimaCharlie' as an EDR solution.
 
 # Setup
 
